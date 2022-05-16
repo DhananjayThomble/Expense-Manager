@@ -1,0 +1,92 @@
+.panel {
+    margin-top: 50px;
+}
+
+.right {
+    float: right;
+}
+
+.text-right {
+    float: right;
+}
+
+.plusIcon {
+    color: green;
+    position: absolute;
+    bottom: 0px;
+    padding-bottom: 50px;
+    right: 0px;
+}
+
+#afterHeader {
+    padding-top: 10px;
+}
+
+.btnNewPlan:hover {
+    background-color: rgb(0, 143, 179);
+    color: white;
+}
+
+.btnNewPlan {
+    background-color: rgb(153, 235, 255);
+    color: black;
+    border-color: rgb(0, 143, 179);
+}
+
+#panelNewPlan {
+    background-color: rgb(153, 235, 255);
+    color: black;
+}
+
+#panelBackground {
+    background-color: rgb(204, 245, 255);
+}
+
+.noUnderline:hover {
+    text-decoration: none;
+}
+
+
+/* nav bar */
+
+.navbar-brand {
+    font-size: 2.5 rem;
+    font-weight: bold;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.nav-link {
+    font-size: 2.5 rem;
+    font-weight: bold;
+}
+
+
+/* Navbar */
+
+
+/*----------------------------- Footer --------------------------------------- */
+
+footer {
+    background-color: #101010;
+    color: #9d9d9d;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    line-height: 30px;
+    /* Vertically center the text there */
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+
+/*----------------------------- Footer --------------------------------------- */
